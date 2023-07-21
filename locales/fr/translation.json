@@ -40,7 +40,8 @@
     "help": "Aide",
     "layers": "Couches",
     "share": "Partager",
-    "version": "À propos de GéoView"
+    "version": "À propos de GéoView",
+    "repoLink": "Lien repo"
   },
   "legend": {
     "unknown": "Titre de légende inconnu",
