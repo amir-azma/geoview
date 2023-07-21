@@ -99,5 +99,10 @@
   },
   "hovertooltip": {
     "alticon": "Selected feature icon"
+  },
+  "dataTable": {
+    "icon": "ICON",
+    "zoom": "ZOOM",
+    "exportBtn": "Export"
   }
 }
