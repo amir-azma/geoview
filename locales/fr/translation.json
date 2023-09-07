@@ -58,11 +58,11 @@
     "zoom_to": "Zoom à l'élément",
     "select": "Sélectionner l'élément sur la carte",
     "external_link": "Lien externe",
-    "mainDescription": "FR - In order to start, select any visible layer on the map, if you do not see any layers on the map, please ensure to select them in the legend section",
-    "detailsView": "FR - Details View",
-    "selectVisbleLayer": "FR - Select any visible layer on the map to get started",
-    "availableLayers": "FR - Avaiable Layers",
-    "selectedFeature": "FR - Selected Feature"
+    "mainDescription": "Pour commencer, sélectionnez n'importe quelle couche visible sur la carte. Si vous ne voyez aucune couche sur la carte, assurez-vous de les sélectionner dans la section Légende.",
+    "detailsView": "Vue détaillée",
+    "selectVisbleLayer": "Sélectionnez n'importe quelle couche visible sur la carte pour commencer",
+    "availableLayers": "Calques disponibles",
+    "selectedFeature": "Fonctionnalité sélectionnée"
   },
   "lightbox": {
     "next": "Prochaine",
