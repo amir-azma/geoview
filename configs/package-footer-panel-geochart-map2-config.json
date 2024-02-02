@@ -140,14 +140,17 @@
     ]
   },
   "theme": "dark",
-  "footerTabs": {
+  "footerBar": {
     "tabs": {
-      "core": ["legend", "layers", "details", "geochart"]
+      "core": [
+        "legend",
+        "layers",
+        "details",
+        "geochart"
+      ]
     }
   },
-  "corePackages": [
-    "geochart"
-  ],
+  "corePackages": [],
   "suportedLanguages": [
     "en",
     "fr"

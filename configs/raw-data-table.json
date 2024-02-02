@@ -128,12 +128,11 @@
     "north-arrow",
     "overview-map"
   ],
-  "footerTabs": {
+  "footerBar": {
     "tabs": {
       "core": ["legend", "layers", "details", "data-table"]
     }
   },
-  "corePackages": [],
   "externalPackages": [],
   "suportedLanguages": [
     "fr",

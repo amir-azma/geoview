@@ -110,6 +110,11 @@
     ]
   },
   "theme": "dark",
-  "corePackages": ["geochart"],
+  "corePackages": [],
+  "footerBar": {
+    "tabs": {
+      "core": ["geochart"]
+    }
+  },
   "suportedLanguages": ["en", "fr"]
 }
