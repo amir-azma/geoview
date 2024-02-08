@@ -100,6 +100,7 @@
     "errorNone": "Pas de fichier ou de source ajouté",
     "errorFile": "Seuls les fichiers geoJSON et GeoPackage peuvent être utilisés",
     "errorServer": "source n'est pas valide",
+    "errorNotLoaded": "Une erreur s'est produite lors du chargement de la couche geoview",
     "errorProj": "ne prend pas en charge la projection cartographique actuelle",
     "only": "seulement",
     "opacity": "Opacité",
@@ -107,7 +108,8 @@
     "reloadLayer": "Recharger la couche",
     "visibilityIsAlways": "La visibilité est toujours activée",
     "toggleVisibility": "Basculer la visibilité",
-    "toggleCollapse": "Basculer la fermeture"
+    "toggleCollapse": "Basculer la fermeture",
+    "querying": "Requête en cours"
   },
   "details": {
     "title": "Détails",
@@ -198,7 +200,7 @@
   },
   "guide": {
     "title": "Guide",
-    "errorMessage": "Désolé, impossible de trouver le document d'aide !"
+    "errorMessage": "Sorry, unable to find the help document!"
   },
   "footerTabsContainer": {
     "focusToMap": "Aller à la carte",
