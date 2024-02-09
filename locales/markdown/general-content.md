@@ -17,25 +17,25 @@ Lorem Ipsum is simply dummy text of
 =!Footer=
 %legend%
 ### Legend help section
-- List 1 in section 1
-- List 2 in section 1
+- List 1 in legend
+- List 2 in legend
 
 %layers%
 ### Layer help section
-- List 1 in section 2
+- List 1 in layers
 
 %details%
 ### Details help section
-- List 1 in section 3
+- List 1 in details
 
 %data-table%
 ### Data table help section
-- List 1 in section 3
+- List 1 data-table
 
 %time-slider%
 ### Time slide help section
-- List 1 in section 3
+- List 1 time-slider
 
 %geochart%
 ### Geochart help section
-- List 1 in section 3
+- List 1 geochart
