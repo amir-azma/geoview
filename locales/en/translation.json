@@ -18,7 +18,9 @@
     "zoomOut": "Zoom out",
     "coordinates": "Toggle Coordinates format",
     "scale": "Toggle between scale and resolution",
-    "location": "Zoom to my location"
+    "location": "Zoom to my location",
+    "collapseBtn": "collapse",
+    "expandBtn": "expand"
   },
   "mapctrl": {
     "rotation": {
@@ -67,7 +69,8 @@
     "refreshLayer": "Refresh layer",
     "highlightLayer": "Highlight layer",
     "subLayersCount": "{count} sub-layers",
-    "itemsCount": "{count} of {totalCount} items"
+    "itemsCount": "{count} of {totalCount} items",
+    "legendInstructions": "Legend Instructions"
   },
   "layers": {
     "title": "Layers",
@@ -109,7 +112,10 @@
     "visibilityIsAlways": "Visibility is always enabled",
     "toggleVisibility": "Toggle visibility",
     "toggleCollapse": "Toggle collapse",
-    "querying": "Querying"
+    "querying": "Querying",
+    "layerAdded": "Layer __param__ added",
+    "instructionsNoLayersTitle": "No layers visible",
+    "instructionsNoLayersBody": "Add visible layers on the map."
   },
   "details": {
     "title": "Details",
@@ -125,7 +131,8 @@
     "clearAllfeatures": "Clear all feature highlights",
     "highlightFeaturesOnMap": "Highlight features on map",
     "keepFeatureSelected": "Keep feature highlighted",
-    "detailsInstructions": "Details Instructions"
+    "detailsInstructions": "Details Instructions",
+    "loadingUI": "Loading user interface"
   },
   "lightbox": {
     "next": "Next",
